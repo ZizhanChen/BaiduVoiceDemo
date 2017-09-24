@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="F:\baidu_voice\bd_speech_sdk_asr_v3.0.1.20170801_60da871\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0dfa9f2853da0b4c8e2fa0a22b104fbd34201264">
+        <dex dex="F:\baidu_voice\bd_speech_sdk_asr_v3.0.1.20170801_60da871\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_d78ea5df67d79067cd9ee7cfd25585cde18dd736\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\baidu_voice\bd_speech_sdk_asr_v3.0.1.20170801_60da871\app\libs\bdasr_V3_20170801_60da871.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="baed09882e710e648fbbd0ae77604a2b20e506c8">
+        <dex dex="F:\baidu_voice\bd_speech_sdk_asr_v3.0.1.20170801_60da871\app\build\intermediates\transforms\dex\debug\folders\1000\2\bdasr_V3_20170801_60da871_2e9437fa6fbb2d1a756534459b1118e536add9c1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\baidu_voice\bd_speech_sdk_asr_v3.0.1.20170801_60da871\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="F:\baidu_voice\bd_speech_sdk_asr_v3.0.1.20170801_60da871\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_ab1a42d45dd3eea0ff17234c4d33cbce260c4534\classes.dex" />
+    </item>
+
+</items>

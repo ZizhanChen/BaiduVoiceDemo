@@ -1,0 +1,4 @@
+#Sun Sep 17 19:55:14 CST 2017
+base.0=F\:\\baidu_voice\\bd_speech_sdk_asr_v3.0.1.20170801_60da871\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_9
+renamed.0=classes.dex
+file.0=F\:\\baidu_voice\\bd_speech_sdk_asr_v3.0.1.20170801_60da871\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_9\\classes.dex

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\baidu_voice\\bd_speech_sdk_asr_v3.0.1.20170801_60da871\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bd_asr_wave.png",
+        "source": "F:\\baidu_voice\\bd_speech_sdk_asr_v3.0.1.20170801_60da871\\app\\src\\main\\res\\drawable-xhdpi\\bd_asr_wave.png"
+    },
+    {
+        "merged": "F:\\baidu_voice\\bd_speech_sdk_asr_v3.0.1.20170801_60da871\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bd_asr_mic.png",
+        "source": "F:\\baidu_voice\\bd_speech_sdk_asr_v3.0.1.20170801_60da871\\app\\src\\main\\res\\drawable-xhdpi\\bd_asr_mic.png"
+    },
+    {
+        "merged": "F:\\baidu_voice\\bd_speech_sdk_asr_v3.0.1.20170801_60da871\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "F:\\baidu_voice\\bd_speech_sdk_asr_v3.0.1.20170801_60da871\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    }
+]

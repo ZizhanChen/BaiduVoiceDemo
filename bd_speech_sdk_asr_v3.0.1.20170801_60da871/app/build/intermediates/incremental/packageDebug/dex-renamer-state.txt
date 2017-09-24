@@ -1,0 +1,7 @@
+#Sun Sep 17 19:55:15 CST 2017
+base.0=F\:\\baidu_voice\\bd_speech_sdk_asr_v3.0.1.20170801_60da871\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_d78ea5df67d79067cd9ee7cfd25585cde18dd736
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=F\:\\baidu_voice\\bd_speech_sdk_asr_v3.0.1.20170801_60da871\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_ab1a42d45dd3eea0ff17234c4d33cbce260c4534\\classes.dex
+base.1=F\:\\baidu_voice\\bd_speech_sdk_asr_v3.0.1.20170801_60da871\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_ab1a42d45dd3eea0ff17234c4d33cbce260c4534
+file.0=F\:\\baidu_voice\\bd_speech_sdk_asr_v3.0.1.20170801_60da871\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_d78ea5df67d79067cd9ee7cfd25585cde18dd736\\classes.dex
